@@ -1,0 +1,18 @@
+{
+  "presente": [
+    {
+      "id": 1,
+      "infinitive": "comer",
+      "english": "to eat",
+      "yo": "como"
+    }
+  ],
+  "p.indefinido": [
+    {
+      "id": 1,
+      "infinitive": "comer",
+      "english": "to eat",
+      "yo": "comí"
+    }
+  ]
+}
