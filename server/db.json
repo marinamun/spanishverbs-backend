@@ -1,18 +1,36 @@
 {
-  "presente": [
+  "verbs": [
     {
       "id": 1,
-      "infinitive": "comer",
-      "english": "to eat",
-      "yo": "como"
+      "spanish": "comer",
+      "english": "to eat"
+    },
+    {
+      "id": 2,
+      "spanish": "hablar",
+      "english": "to speak"
+    },
+    {
+      "id": 3,
+      "spanish": "vivir",
+      "english": "to live"
     }
   ],
-  "p.indefinido": [
+  "nouns": [
     {
       "id": 1,
-      "infinitive": "comer",
-      "english": "to eat",
-      "yo": "comí"
+      "spanish": "la  manzana",
+      "english": "the apple"
+    },
+    {
+      "id": 2,
+      "spanish": "el idioma",
+      "english": "the language"
+    },
+    {
+      "id": 3,
+      "spanish": "la  casa",
+      "english": "the house"
     }
   ]
 }
